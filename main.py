@@ -9,7 +9,7 @@ def main():
               print("retry")
         except ValueError:
               print("Invalid")
-    print(f"{number}")
+    print(number)
    
     """
     ########################################
